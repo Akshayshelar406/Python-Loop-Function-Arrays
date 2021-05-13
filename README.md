@@ -8,4 +8,9 @@ Function
 
 ![Capture](https://user-images.githubusercontent.com/82565293/118171705-21f13400-b449-11eb-8191-68c59a68fd8d.PNG)
 
+For Loop
+
+![Capture](https://user-images.githubusercontent.com/82565293/118171849-4fd67880-b449-11eb-9cf0-584726a8d538.PNG)
+
+
 
